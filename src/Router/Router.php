@@ -45,7 +45,7 @@ class Router
     private $routes = [];
 
     /**
-     * @var callable The functionn to be called when no valid route can be found.
+     * @var callable The function to be called when no valid route can be found.
      */
     protected $notFoundCallback;
 
