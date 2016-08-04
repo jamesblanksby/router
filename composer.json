@@ -1,5 +1,5 @@
 {
-	"name": "jamesblanksby/Router",
+	"name": "jamesblanksby/router",
 	"description": "A simple object oriented PHP router with before Middleware",
 	"require-dev": {
 		"phpunit/phpunit": "~3.7"
