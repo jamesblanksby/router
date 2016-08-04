@@ -64,7 +64,6 @@ class Router
         $this->defaults = array_merge($this->defaults, $settings);
     }
 
-    // MAIN FUNCTIONS
     /**
      * Store before middleware route and handling function.
      * 
